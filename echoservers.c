@@ -115,7 +115,7 @@ void check_clients(pool *p)
 		printf("Server received %d (%d total) bytes on fd %d\n",
 		       n, byte_cnt, connfd);
         Fputs(buf, stdout);
-        printf("Host IP: %s\n", get_IP());
+        printf("Echo Server IP (%s) received\n", get_IP());
 		Rio_writen(connfd, buf, n); //line:conc:echoservers:endecho
 	    }
 
