@@ -1,0 +1,10 @@
+This homework, much like the last homework, taught me how frustrating programming in C
+can be. My background with C++ and Python has made me forget the complexities of low level
+programming. Doing some of the simplest operations, such as substrings and string concatenation
+are infuriating in C. I also learned how tricky it can be to handle network communication and
+firewalls. I had to disable my firewalls on my computer to get the program to work. I also found
+that the program would only work if my VPN on my computer was turned on. I have been unable to
+do determine why this is. My best guess is I have somehow turned on a killswitch or firewall
+setting that applies to the VPN and causes this issue. In any case, I left the VPN on and ran
+the program. Overall the code seems fairly complex to me. The concept and design itself were
+simple enough, but like most things in C, the implementation became quire difficult.
